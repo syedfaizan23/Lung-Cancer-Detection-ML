@@ -1,3 +1,5 @@
+![Lung Cancer Detection Banner](banner.png)
+
 # 🫁 Lung Cancer Detection using Machine Learning
 
 This project is a **university study project** focused on detecting lung cancer using **Machine Learning algorithms**. It demonstrates how data preprocessing, visualization, and model training can help in predicting the likelihood of lung cancer based on health parameters.

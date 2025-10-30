@@ -1,4 +1,4 @@
-![Lung Cancer Detection Banner](banner.png)
+![Lung Cancer Detection Banner](Banner.png)
 
 # 🫁 Lung Cancer Detection using Machine Learning
 
